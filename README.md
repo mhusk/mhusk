@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **mhusk/mhusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I love making processes more efficient. I started out writing scripts for Google Sheets and Excel and now I have moved onto building full-stack applications on Firebase using NodeJS.
+
+- 💼 I'm currently working as a Product Manager at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
+- 🔭 Currently working on building an App to support the 🏀 team I assistant coach
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me: huskdoes@gmail.com
+- ⚡ Fun fact: I have seen the Indiana Pacers play in 9 NBA 🏟️s
