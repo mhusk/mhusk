@@ -19,6 +19,6 @@ I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I lo
 
 - 💼 I'm currently working as a Product Manager at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
 - 🔭 Currently working on building an App to support the 🏀 team I coach
-- 🌱 I’m currently learning: TBD
+- 🌱 I’m currently learning: [Storybook](https://storybook.js.org/)
 - 📫 How to reach me: huskdoes@gmail.com
 - ⚡ Fun fact: I have seen the Indiana Pacers play in 9 NBA 🏟️s
