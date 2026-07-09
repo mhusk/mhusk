@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I love making processes more efficient. I started out writing scripts for Google Sheets and Excel and now I have moved onto building full-stack applications on Firebase using NodeJS.
 
 - 💼 I'm currently working as a Product Manager at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
-- 🔭 Currently working on [PlaySmart](https://playsmartapp.com/landing) an app that is helps coaches use data to inform athlete and team development
+- 🔭 Currently working on [PlaySmart](https://playsmartapp.com/landing) an app that is helps coaches use data to inform athlete and team development and building an autonomous personal AI Assistant
 - 🌱 I’m currently learning: Google GenKit
 - 📫 How to reach me: huskdoes@gmail.com
 - ⚡ Fun fact: I have seen the Indiana Pacers play in 9 NBA 🏟️s
