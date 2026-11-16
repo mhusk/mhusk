@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I love making processes more efficient. I started out writing scripts for Google Sheets and Excel and now I lead AI Enablement in a Fortune 500 company.
+I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I love making processes more efficient. I started out writing scripts for Google Sheets and Excel and now I lead AI Enablement at Ford Motor Company.
 
-- 💼 I'm currently working as a Product Manager at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
+- 💼 I'm currently working as an AI Enablement Lead at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
 - 🔭 Currently working on building autonomous loops to build, manage, maintain and improve software
 - 🌱 I’m currently learning: GrokBot + Cursor + Linear + Firebase
 - 📫 How to reach me: huskdoes@gmail.com
