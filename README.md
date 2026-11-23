@@ -19,6 +19,6 @@ I am a self-taught full-stack developer 👨‍💻 living in Plymouth, MI. I lo
 
 - 💼 I'm currently working as an AI Enablement Lead at [Ford Motor Company](https://www.google.com/finance/quote/F:NYSE)
 - 🔭 Currently working on building autonomous loops to build, manage, maintain and improve software
-- 🌱 I’m currently learning: GrokBot + Cursor + Linear + Firebase
+- 🌱 I’m currently learning: GrokBot + Cursor + Google Antigravity + ESP32 + Firebase
 - 📫 How to reach me: huskdoes@gmail.com
 - ⚡ Fun fact: I have seen the Indiana Pacers play in 9 NBA 🏟️s
